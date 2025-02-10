@@ -10,6 +10,9 @@ Video: Zinan
 
 ## Initial Prototyping 
 
+Here's an example of an initial rapid prototype on the shape of our device. 
+![First Prototype](Images/Pitch1.jpg)
+
 
 
 
