@@ -1,12 +1,12 @@
 # Group 5 -
 
-"Lighthouses guide ships while ours guides peace of mind. When your child gets home, the lighthouse lights up on your end, no texts needed. A reassuring ambient glow to say, ‘I’m home and safe’ no matter the distance.'  
+"Lighthouses guide ships while ours guides peace of mind. When your child gets home, the lighthouse lights up on your end, no texts needed. A reassuring ambient glow to say, ‘I’m home and safe’ no matter the distance."
 
 ## Why a Lighthouse?
-We were inspired by the concept of a lighthouse as lighthouses observe ships out at sea and guide them at their lights. This can also be applied to a parent child relationship especially where a parent does not want to be intrusive and respect their child's indepedence while still being present to guide and reassure their child.
+The concept of a lighthouse inspired us as lighthouses observe ships out at sea and guide them at their lights. This can also be applied to a parent-child relationship especially where a parent does not want to be intrusive and respects their child's independence while still being present to guide and reassure their child.
 
 ## Background 
-As globalisation grows, more young people move abroad to study and work. However, this comes with  challenges. For example, while abroad keeping in touch with family consistently can be a bit of a challenge for international students. This could potentially lead to parents feeling anxious due to the lack of consistent updates. Moreover, parents may also not want to intrude on their child's independence whilst letting their child know they are always around to help. Therefore, our device aims to address this issue by allowing for parents to recieve ambient updates from their child reassuraning them. At the same time , reminding the child that their parents are always there ready to guide and support them.
+As globalisation grows, more young people move abroad to study and work. However, this comes with  challenges. For example, while abroad keeping in touch with family consistently can be a bit of a challenge for international students. This could potentially lead to parents feeling anxious due to the lack of consistent updates. Moreover, parents may also not want to intrude on their child's independence whilst letting their child know they are always around to help. Therefore, our device aims to address this issue by allowing parents to receive ambient updates from their children reassuring them. At the same time, reminding the child that their parents are always there ready to guide and support them.
 
 ### Target Demographic
 We have decided to primarily market this device to international students and their parents.
@@ -19,14 +19,14 @@ Primary Target: Parents of international students, especially in cultures that v
 
 ## Initial Prototyping 
 
-Here's an example of an initial rapid prototype on the shape of our device. This was was before our lighthouse idea.
+Here's an example of an initial rapid prototype of the shape of our device. This was before our lighthouse idea.
 ![First Prototype](Images/Pitch1.jpg)
 
 
-We also tried experimenting with a wooden base, to give it a warm, home like feeling.
+We also tried experimenting with a wooden base, to give it a warm, home-like feeling.
 ![Wooden Base](Images/woodbase.jpeg)
 
-This was after our lighgthouse idea had been finalised, however the boat was too small and it lacked colour.
+This was after our lighthouse idea had been finalised, however, the boat was too small and it lacked colour.
 ![Version1](Images/initialversion1.jpeg)
 
 We decided to keep the colours on the lighthouse minimalistic
