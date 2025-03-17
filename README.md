@@ -1,4 +1,4 @@
-# Group 5 - ComeHome
+# Group 5 -
 
 "Lighthouses guide ships while ours guides peace of mind. When your child gets home, the lighthouse lights up on your end, no texts needed. A reassuring ambient glow to say, ‘I’m home and safe’ no matter the distance.'  
 
@@ -21,9 +21,7 @@ Primary Target: Parents of international students, especially in cultures that v
 
 
 ## Roles
-Hardware: Zhiyu
-Software: Muchen, Emmanuel?
-Video: Zinan
+
 
 ## Initial Prototyping 
 
