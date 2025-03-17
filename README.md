@@ -3,7 +3,7 @@
 "Lighthouses guide ships while ours guides peace of mind. When your child gets home, the lighthouse lights up on your end, no texts needed. A reassuring ambient glow to say, ‘I’m home and safe’ no matter the distance."
 
 ## Why a Lighthouse?
-The concept of a lighthouse inspired us as lighthouses observe ships out at sea and guide them at their lights. This can also be applied to a parent-child relationship especially where a parent does not want to be intrusive and respects their child's independence while still being present to guide and reassure their child.
+The concept of a lighthouse inspired us as lighthouses observe ships out at sea and guide them at their lights. This can also be applied to a parent-child relationship especially where a parent does not want to be intrusive and respects their child's independence while still being present to guide and reassure them.
 
 ## Background 
 As globalisation grows, more young people move abroad to study and work. However, this comes with  challenges. For example, while abroad keeping in touch with family consistently can be a bit of a challenge for international students. This could potentially lead to parents feeling anxious due to the lack of consistent updates. Moreover, parents may also not want to intrude on their child's independence whilst letting their child know they are always around to help. Therefore, our device aims to address this issue by allowing parents to receive ambient updates from their children reassuring them. At the same time, reminding the child that their parents are always there ready to guide and support them.
