@@ -1,7 +1,24 @@
 # Group 5 - ComeHome
 
+"Lighthouses guide ships while ours guides peace of mind. When your child gets home, the lighthouse lights up on your end, no texts needed. A reassuring ambient glow to say, ‘I’m home and safe’ no matter the distance.'  
+
+## Why a Lighthouse?
+
+
 ## Background 
-As globalisation grows, more young people move abroad to study and work. For example, international students may struggle to share their well-being in real-time, while parents feel anxious due to limited updates. This can be quite emotional and leave both feeling isolated. Our device aims to bridge this gap in a way that sets it apart from a standard phone. 
+As globalisation grows, more young people move abroad to study and work. However, this comes with  challenges. For example, while abroad keeping in touch with family consistently can be a bit of a challenge for international students. This could potentially lead to parents feeling anxious due to the lack of consistent updates. Moreover, parents may also not want to intrude on their child's independence whilst letting their child know they are always around to help. Therefore, our device aims to address this issue by allowing for parents to recieve ambient updates from their child reassuraning them. At the same time , reminding the child that their parents are always there ready to guide and support them.
+
+### Target Demographic
+We have decided to primarily market this device to international students and their parents.
+
+International students – Studying abroad, living independently for the first time, and looking for a way to stay connected with their families without constant messaging.
+
+Parents of international students – Wanting reassurance about their child’s safety while respecting their independence. Many may experience empty nest syndrome and seek non-intrusive ways to stay connected.
+
+Primary Target: Parents of international students, especially in cultures that value family connection. They worry about their child's safety, but want a non-intrusive way to stay connected—and they’re the ones making the purchase.
+
+
+
 
 ## Roles
 Hardware: Zhiyu
@@ -10,11 +27,28 @@ Video: Zinan
 
 ## Initial Prototyping 
 
-Here's an example of an initial rapid prototype on the shape of our device. 
+Here's an example of an initial rapid prototype on the shape of our device. This was was before our lighthouse idea.
 ![First Prototype](Images/Pitch1.jpg)
 
 
+We also tried experimenting with a wooden base, to give it a warm, home like feeling.
+![Wooden Base](Images/woodbase.jpeg)
 
+This was after our lighgthouse idea had been finalised, however the boat was too small and it lacked colour.
+![Version1](Images/initialversion1.jpeg)
+
+We decided to keep the colours on the lighthouse minimalistic
+![LighthouseColour](Images/finallighthouse.jpeg)
+
+## Circuit
+The circuit is quite simple and only has an ESP32, LED strip and the RP-S40-ST Pressure Sensor. When a key is placed on the pressure sensor, this information is sent to the other ESP over wifi via MQTT. This then lights the parent's device informing them their child is home. 
+
+
+Below is a picture of the circuit in action inside our device.
+![CircuitInDevice](Images/CircuitInDevice.jpeg)
+
+In addition here is the circuit diagram for our device.
+![CircuitDiagram](PCB/Screenshot%202025-03-01%20021249.png)
 
 ## Video
 
