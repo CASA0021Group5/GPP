@@ -3,7 +3,7 @@
 "Lighthouses guide ships while ours guides peace of mind. When your child gets home, the lighthouse lights up on your end, no texts needed. A reassuring ambient glow to say, ‘I’m home and safe’ no matter the distance.'  
 
 ## Why a Lighthouse?
-
+We were inspired by the concept of a lighthouse as lighthouses observe ships out at sea and guide them at their lights. This can also be applied to a parent child relationship especially where a parent does not want to be intrusive and respect their child's indepedence while still being present to guide and reassure their child.
 
 ## Background 
 As globalisation grows, more young people move abroad to study and work. However, this comes with  challenges. For example, while abroad keeping in touch with family consistently can be a bit of a challenge for international students. This could potentially lead to parents feeling anxious due to the lack of consistent updates. Moreover, parents may also not want to intrude on their child's independence whilst letting their child know they are always around to help. Therefore, our device aims to address this issue by allowing for parents to recieve ambient updates from their child reassuraning them. At the same time , reminding the child that their parents are always there ready to guide and support them.
@@ -16,12 +16,6 @@ International students – Studying abroad, living independently for the first t
 Parents of international students – Wanting reassurance about their child’s safety while respecting their independence. Many may experience empty nest syndrome and seek non-intrusive ways to stay connected.
 
 Primary Target: Parents of international students, especially in cultures that value family connection. They worry about their child's safety, but want a non-intrusive way to stay connected—and they’re the ones making the purchase.
-
-
-
-
-## Roles
-
 
 ## Initial Prototyping 
 
@@ -41,12 +35,19 @@ We decided to keep the colours on the lighthouse minimalistic
 ## Circuit
 The circuit is quite simple and only has an ESP32, LED strip and the RP-S40-ST Pressure Sensor. When a key is placed on the pressure sensor, this information is sent to the other ESP over wifi via MQTT. This then lights the parent's device informing them their child is home. 
 
+| Component   | Purpose                                   |
+| ----------- | -----------                               |
+| ESP32       | Cheap wireless communication              |
+| Pressure Sensor | Trigger to notify parent's device     |
+| LEDs        |Visual status updates                      |
 
-Below is a picture of the circuit in action inside our device.
+Below is a picture of the circuit in action inside our device:
 ![CircuitInDevice](Images/CircuitInDevice.jpeg)
 
 In addition here is the circuit diagram for our device.
 ![CircuitDiagram](PCB/Screenshot%202025-03-01%20021249.png)
 
 ## Video
+
+### Schedule 
 
