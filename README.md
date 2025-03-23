@@ -1,4 +1,4 @@
-# Group 5 - Guding Glow
+# Group 5 - Guiding Glow
 
 "Lighthouses guide ships while ours guides peace of mind. When your child gets home, the lighthouse lights up on your end, no texts needed. A reassuring ambient glow to say, ‘I’m home and safe’ no matter the distance."
 
