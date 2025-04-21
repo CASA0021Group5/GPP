@@ -49,5 +49,7 @@ In addition here is the circuit diagram for our device.
 
 ## Video
 
-### Schedule 
+[![Watch the video](https://img.youtube.com/vi/-N3DUTWYL2w/maxresdefault.jpg)](https://youtu.be/-N3DUTWYL2w)
+
+### [Watch this video on YouTube](https://youtu.be/-N3DUTWYL2w)
 
