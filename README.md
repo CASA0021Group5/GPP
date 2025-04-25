@@ -1,55 +1,93 @@
-# Group 5 - Guiding Glow
+# 🚢🌟 Group 5 - Guiding Glow 
 
-"Lighthouses guide ships while ours guides peace of mind. When your child gets home, the lighthouse lights up on your end, no texts needed. A reassuring ambient glow to say, ‘I’m home and safe’ no matter the distance."
+> _"Lighthouses guide ships while ours guides peace of mind. When your child gets home, the lighthouse lights up on your end—no texts needed. A reassuring ambient glow that says, ‘I’m home and safe,’ no matter the distance."_
 
-## Why a Lighthouse?
-The concept of a lighthouse inspired us as lighthouses observe ships out at sea and guide them at their lights. This can also be applied to a parent-child relationship especially where a parent does not want to be intrusive and respects their child's independence while still being present to guide and reassure them.
+---
 
-## Background 
-As globalisation grows, more young people move abroad to study and work. However, this comes with  challenges. For example, while abroad keeping in touch with family consistently can be a bit of a challenge for international students. This could potentially lead to parents feeling anxious due to the lack of consistent updates. Moreover, parents may also not want to intrude on their child's independence whilst letting their child know they are always around to help. Therefore, our device aims to address this issue by allowing parents to receive ambient updates from their children reassuring them. At the same time, reminding the child that their parents are always there ready to guide and support them.
+## 🌊 Why a Lighthouse?
 
-### Target Demographic
-We have decided to primarily market this device to international students and their parents.
+🌟 Lighthouses have long symbolized guidance, safety, and reassurance. Inspired by their symbolic power, we've designed **Guiding Glow** to nurture the connection between parents and their children studying abroad. Just as a lighthouse guides ships safely home, our device offers parents subtle reassurance that their children are safe and sound, without intrusion.
 
-International students – Studying abroad, living independently for the first time, and looking for a way to stay connected with their families without constant messaging.
+---
+## 📖 Background
 
-Parents of international students – Wanting reassurance about their child’s safety while respecting their independence. Many may experience empty nest syndrome and seek non-intrusive ways to stay connected.
+With the rise of globalization, more young individuals pursue education abroad. This enriching experience can, however, lead to increased anxiety for parents due to infrequent communication.
 
-Primary Target: Parents of international students, especially in cultures that value family connection. They worry about their child's safety, but want a non-intrusive way to stay connected—and they’re the ones making the purchase.
+✨ **Guiding Glow** provides:
+- **Ambient updates**: Non-intrusive status indicators
+- **Emotional reassurance**: A constant yet gentle reminder of familial bonds
+- **Respect for independence**: Reduces anxiety without compromising privacy
 
-## Initial Prototyping 
+---
 
-Here's an example of an initial rapid prototype of the shape of our device. This was before our lighthouse idea.
-![First Prototype](Images/Pitch1.jpg)
+## 🎯 Target Demographic
+
+🌍 **International Students**
+- Experiencing independent living abroad for the first time
+- Seeking connection without constant digital interactions
+
+👨‍👩‍👧 **Parents of International Students**
+- Wanting non-intrusive reassurance of their child's safety
+- Dealing with empty nest syndrome
+- Valuing continuous family connection, especially across cultures
+
+**🔑 Primary Users**: Parents, particularly those from family-oriented cultures, who appreciate discreet yet meaningful updates about their children's well-being.
+
+---
+
+## 🎨 Prototyping Journey
+
+🚀 **Early Prototype**
+
+Our initial rapid prototype explored various shapes before settling on the lighthouse concept.
+
+<img src="Images/Pitch1.jpg" width="300" height="300">
+
+🏠 **Wooden Base Experiment**
+
+To evoke warmth and familiarity, we experimented with a wooden base.
+
+<img src="Images/woodbase.jpeg" width="300" height="300">
+
+⛵ **Refining the Lighthouse**
+
+Initial designs included a small boat but lacked vibrancy:
+
+<img src="Images/initialversion1.jpeg" width="300" height="300">
+
+🎯 **Minimalistic Lighthouse**
+
+We finalized a sleek, minimalistic look to fit modern aesthetics:
 
 
-We also tried experimenting with a wooden base, to give it a warm, home-like feeling.
-![Wooden Base](Images/woodbase.jpeg)
+<img src="Images/final.jpg" width="600" height="330">
+---
 
-This was after our lighthouse idea had been finalised, however, the boat was too small and it lacked colour.
-![Version1](Images/initialversion1.jpeg)
+## 🔌 How It Works (Circuit)
 
-We decided to keep the colours on the lighthouse minimalistic
-![LighthouseColour](Images/finallighthouse.jpeg)
+The circuit behind **Guiding Glow** is simple, efficient, and elegant:
 
-## Circuit
-The circuit is quite simple and only has an ESP32, LED strip and the RP-S40-ST Pressure Sensor. When a key is placed on the pressure sensor, this information is sent to the other ESP over wifi via MQTT. This then lights the parent's device informing them their child is home. 
+- **🔹 ESP32**: Wireless communication via MQTT
+- **🟢 Pressure Sensor (RP-S40-ST)**: Detects key placement signaling "I'm home"
+- **💡 LED Strip**: Provides visual feedback, lighting up the parent's lighthouse
 
-| Component   | Purpose                                   |
-| ----------- | -----------                               |
-| ESP32       | Cheap wireless communication              |
-| Pressure Sensor | Trigger to notify parent's device     |
-| LEDs        |Visual status updates                      |
+📸 **Inside Look:**
 
-Below is a picture of the circuit in action inside our device:
-![CircuitInDevice](Images/CircuitInDevice.jpeg)
 
-In addition here is the circuit diagram for our device.
-![CircuitDiagram](PCB/Screenshot%202025-03-01%20021249.png)
+<img src="Images/CircuitInDevice.jpeg" width="300" height="300">
 
-## Video
+📝 **Circuit Diagram:**
 
-[![Watch the video](https://img.youtube.com/vi/-N3DUTWYL2w/maxresdefault.jpg)](https://youtu.be/-N3DUTWYL2w)
+![Circuit Diagram](PCB/Screenshot%202025-03-01%20021249.png)
 
-### [Watch this video on YouTube](https://youtu.be/-N3DUTWYL2w)
+---
 
+## 🎬 Project Video
+
+[![Watch the video](Video/Product_video_cover.jpg)](https://youtu.be/-N3DUTWYL2w)
+
+📺 [**Watch on YouTube**](https://youtu.be/-N3DUTWYL2w)
+
+---
+
+### 🌟 Stay connected, stay reassured—Guiding Glow makes distance feel a little shorter.
