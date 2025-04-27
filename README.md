@@ -1,8 +1,8 @@
 # 👥 Team 
-Zhiyu Cao - Hardware Design
-Muchen Han - Software Design
-Zinan Ye - Creative and Media Marketing
-Emmanuel Gyamfi - Overall Design
+- Zhiyu Cao - Hardware Design
+- Muchen Han - Software Design
+- Zinan Ye - Creative and Media Marketing
+- Emmanuel Gyamfi - Overall Design
 
 For any questions regarding Guiding Glow, feel free to contact the team at the email addresses below:
 ucfneeg@ucl.ac.uk
