@@ -17,8 +17,7 @@ zinan.ye.24@ucl.ac.uk
 
 ## 🌊 Why a Lighthouse?
 
-🌟 Lighthouses have long symbolised guidance, safety, and reassurance. Inspired by their symbolic power, we've designed **Guiding Glow** to nurture the connection between parents and their children studying abroad. Just as a lighthouse guides ships safely home, our device offers parents subtle reassurance that their children are safe and sound, without intrusion.
-
+🌟 Lighthouses have long symbolised guidance, safety, and reassurance. Drawing inspiration from this symbolism, we've designed **Guiding Glow** to nurture the connection between parents and their children studying abroad. Just as a lighthouse guides ships safely home, our device offers parents the subtle reassurance that their children are safe and sound. 
 ---
 ## 📖 Background
 
@@ -34,7 +33,7 @@ With the rise of globalisation, more young individuals pursue education abroad. 
 ## 🎯 Target Demographic
 
 🌍 **International Students**
-- Experiencing independent living abroad for the first time
+- Independently living abroad for the first time
 - Seeking connection without constant digital interactions
 
 👨‍👩‍👧 **Parents of International Students**
