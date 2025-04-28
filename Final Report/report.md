@@ -4,23 +4,23 @@
 
 
 ## Table of Contents
-- [Introduction](#introduction)
-  - [Background](#background)
-  - [Motivation](#motivation)
-  - [Aims and Objectives](#aims-and-objectives)
-  - [Existing Products and Design Space](#existing-products-and-design-space)
-- [Literature Review](#literature-review)
-- [Appearance Design & Iteration](#appearance-design--iteration)
-  - [First Prototype: Cylindrical Box with Heart Motifs](#first-prototype-cylindrical-box-with-heart-motifs)
-  - [Second Prototype: Cloud-Shaped Design](#second-prototype-cloud-shaped-design)
-  - [Final Concept: Lighthouse and Boat](#final-concept-lighthouse-and-boat)
-  - [Final Design Enhancements](#final-design-enhancements)
-- [Methodology](#methodology)
-  - [Introduction](#introduction)
-  - [Software Design](#software-design)
-  - [Hardware Material Selection and System Design](#hardware-material-selection-and-system-design)
-- [Conclusions and Future Work](#conclusions-and-future-work)
-- [References](#references)
+- [1. Introduction](#1-introduction)
+  - [1.1 Background](#11-background)
+  - [1.2 Motivation](#12-motivation)
+  - [1.3 Aims and Objectives](#13-aims-and-objectives)
+  - [1.4 Existing Products and Design Space](#14-existing-products-and-design-space)
+- [2. Literature Review](#2-literature-review)
+- [3. Appearance Design & Iteration](#3-appearance-design--iteration)
+  - [3.1 First Prototype: Cylindrical Box with Heart Motifs](#31-first-prototype-cylindrical-box-with-heart-motifs)
+  - [3.2 Second Prototype: Cloud-Shaped Design](#32-second-prototype-cloud-shaped-design)
+  - [3.3 Final Concept: Lighthouse and Boat](#33-final-concept-lighthouse-and-boat)
+  - [3.4 Final Design Enhancements](#34-final-design-enhancements)
+- [4. Methodology](#4-methodology)
+  - [4.1 Software Design](#41-software-design)
+  - [4.2 Hardware Material Selection and System Design](#42-hardware-material-selection-and-system-design)
+- [5. Conclusions and Future Work](#5-conclusions-and-future-work)
+- [6. References](#6-references)
+
 
 ---
 word counts: 2116
